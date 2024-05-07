@@ -2,6 +2,8 @@
 
 💡 Clona este repositorio agregandole un punto al final para únicamente clonar sus archivos internos
 
+Ejemplo: <code>...ZeroDistroUSB.git .</code>
+
 ## Requerimientos
 
 - udisks2
