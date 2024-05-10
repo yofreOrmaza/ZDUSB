@@ -8,7 +8,7 @@ echo " ██       ██           ██ "
 echo " ██       ██  ██       ██ "
 echo " ██       ██  ██       ██ "
 echo " ███████████  ███████████ "
-echo "        Zero  Distro      "
+echo "          ZD  USB         "
 echo "                          " 
 
 lsblk
